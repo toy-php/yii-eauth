@@ -1,5 +1,5 @@
 {
-    "name": "nodge/yii-eauth",
+    "name": "toy-php/yii-eauth",
     "description": "EAuth extension allows to authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers.",
     "authors": [
         {
