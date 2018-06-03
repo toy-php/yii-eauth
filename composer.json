@@ -12,19 +12,9 @@
     "license": "BSD 2-Clause License",
     "require": {
         "php": ">=5.3.0",
-        "toy-php/yiieoauth":"master@dev",
-        "toy-php/light-openid":"master@dev"
+        "krupni/yii-eoauth":"1.0.0",
+        "krupni/lightopenid":"1.0.0"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/toy-php/light-openid"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/toy-php/yiieoauth"
-        }
-    ],
     "autoload": {
         "classmap": [
             "."
